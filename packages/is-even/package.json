@@ -1,0 +1,12 @@
+{
+  "name": "@groovy-form/is-even",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc src/index.ts --outDir dist"
+  },
+  "dependencies": {
+    "@groovy-form/is-odd": "*"
+  }
+}
